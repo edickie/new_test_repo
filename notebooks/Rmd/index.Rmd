@@ -1,0 +1,13 @@
+---
+title: "New Proj analyses"
+author: "Erin Dickie"
+date: "`r Sys.Date()`"
+output: bookdown::gitbook
+github-repo: https://github.com/edickie/new_test_repo
+description: "demo for tutorial"
+fontsize: 10pt
+monofontoptions: "Scale=0.5"
+classoption: landscape
+---
+
+# The index page
